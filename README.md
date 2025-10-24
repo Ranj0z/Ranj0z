@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently building my portfolio. <br>I am a Quality Assurance Software Engineer with a background in Mechatronics, Robotics, and Automation.<br>I am a Tech, AI, and VR enthusiast working to provide workable solutions that are relevant to humanity and our societies.
+I am currently building my student engineer portfolio. <br>I am a Quality Assurance Software Engineer with a background in Mechatronics, Robotics, and Automation.<br>I am a Tech, AI, and VR enthusiast working to provide workable solutions that are relevant to humanity and our societies.
 
 
 ## 🌐 Socials:
